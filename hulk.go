@@ -46,8 +46,8 @@ var (
 		//"http://yandex.ru/yandsearch?text=",
 	}
 	headersUseragents []string = []string{
-    "Renne-Ddos/09.12.21",
-    "Fer-Teamo/09.12.21",
+    "DDoS/09.12.21",
+    "Darryl/09.12.21",
 	}
 	cur int32
 )
