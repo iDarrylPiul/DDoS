@@ -1,0 +1,4 @@
+language = "python3"
+run = "python Python-Script.py"
+
+#Si lo vais a usar en replit o.o
